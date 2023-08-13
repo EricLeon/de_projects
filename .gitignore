@@ -1,0 +1,6 @@
+/project1_nhl_data/*.xlsx
+/project1_nhl_data/venv/
+/project1_nhl_data/.vscode/settings.json
+/project1_nhl_data/config.py
+/project1_nhl_data/__pycache__/
+/project1_nhl_data/.DS_Store
